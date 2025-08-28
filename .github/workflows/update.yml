@@ -38,8 +38,8 @@ jobs:
         commit-message: '✏️ Update papers automatically.'
         force-add: 'true'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: KMnO4-zx
-        email: 1021385881@qq.com
+        name: Devin-Pi
+        email: 18119447201@163.com
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
