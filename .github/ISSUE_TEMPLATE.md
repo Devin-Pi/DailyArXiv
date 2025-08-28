@@ -3,7 +3,12 @@ title: Latest 15 Papers - August 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/KMnO4-zx/DailyArXiv) page for a better reading experience and more papers.**
-
+## audio-visual localization
+| **Title** | **Date** | **KiMi** | **Comment** |
+| --- | --- | --- | --- |
+| **[RAG for Geoscience: What We Expect, Gaps and Opportunities](http://arxiv.org/abs/2508.11246v1)** | 2025-08-15 | [papers-cool](https://papers.cool/arxiv/2508.11246v1) |  |
+| **[GeoRSMLLM: A Multimodal Large Language Model for Vision-Language Tasks in Geoscience and Remote Sensing](http://arxiv.org/abs/2503.12490v1)** | 2025-03-16 | [papers-cool](https://papers.cool/arxiv/2503.12490v1) |  |
+| **[When Geoscience Meets Foundation Models: Towards General Geoscience Artificial Intelligence System](http://arxiv.org/abs/2309.06799v5)** | 2024-11-12 | [papers-cool](https://papers.cool/arxiv/2309.06799v5) | <details><summary>accpe...</summary><p>accpeted by IEEE Geoscience and Remote Sensing Magazine</p></details> |
 ## Geoscience
 | **Title** | **Date** | **KiMi** | **Comment** |
 | --- | --- | --- | --- |
